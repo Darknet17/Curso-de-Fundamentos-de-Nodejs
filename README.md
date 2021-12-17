@@ -45,3 +45,19 @@
 [**Módulos útiles**](doc/Módulos%20útiles%20546bc073d2b047bf8844de2cdab4df10.md)
 
 [**Datos almacenados vs en memoria**](doc/Datos%20almacenados%20vs%20en%20memoria%20ea52fc720785450b99a0cfeb4b236fd4.md)
+
+[**Buffers**](doc/Buffers%20b683d00ece1e4dd4983f2d6f17c5a410.md)
+
+[**Streams**](doc/Streams%20cb95f8ff778e419090a65ef1e544df6c.md)
+
+[**Benchmarking (console time y timeEnd)**](doc/Benchmarking%20(console%20time%20y%20timeEnd)%20d2ca82d0a612429cb10e7eb5ffde1482.md)
+
+[**Debugger**](doc/Debugger%20c820777f572f40a78bab10adfa467783.md)
+
+[**Error First Callbacks**](doc/Error%20First%20Callbacks%203d54b40fc9584b63bfd8345487e84f99.md)
+
+[**Scraping**](doc/Scraping%20eab57492e5df4820828eb34fec002fb5.md)
+
+[**Automatización de procesos**](doc/Automatización%20de%20procesos%20c2fab9541e8f4811aff3f18736a9655f.md)
+
+[**Aplicaciones de escritorio**](doc/Aplicaciones%20de%20escritorio%20b34d32eef52e43ca8503c65ec6495a01.md)
